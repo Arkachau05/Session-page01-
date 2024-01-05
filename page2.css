@@ -1,0 +1,25 @@
+*{
+padding: 0px;
+margin: 0px;
+background-color: aqua;
+}
+.box2
+{   background-color: grey;
+    padding-left: 70%;
+    border: solid black 2px;
+    height: 10vh;
+}
+.box3
+{  
+    background-color:white;
+    height: 10vh;
+    width: 20vw;
+    font-size: 4vh;
+}
+.logb
+{   
+    text-decoration: none;
+    color: black;
+    height: 50vh;
+    width: 5vw ;
+}

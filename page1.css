@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.login1
+{
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login2
+{
+width: 50vw;
+height: 70vh;
+display: flex;
+justify-content: center;
+align-items: center;
+border: solid black 1vh;
+}
+.box
+{
+height: 5vh;
+width: 25vw;
+}
+.box1
+{   
+    border-radius: 4vh;
+    height: 5vh;
+    width: 20vw;
+}
